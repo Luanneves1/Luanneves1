@@ -1,4 +1,4 @@
-### Olá Eu sou o Luan 👋
+### Olá Eu sou o Luan 👋 🚀
 
 
 - 🔭 Atualmente estou Cursando Análise e Desenvolvimento de Sistemas...

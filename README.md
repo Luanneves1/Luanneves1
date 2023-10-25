@@ -20,7 +20,7 @@
   
   <a href="https://www.instagram.com/luan.nevescn" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/luan-neves-55222a217" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <img align="right"  height="50" width="100" src="https://media.tenor.com/6Ja4z2BN2-gAAAAi/baby-yoda.gif">
+  <img align="right"  height="75" width="150" src="https://media.tenor.com/6Ja4z2BN2-gAAAAi/baby-yoda.gif">
 </div>
 
 ##

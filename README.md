@@ -10,7 +10,7 @@
   <img align="center"  height="30" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center"  height="30" width="40" src=https://github.com/Luanneves1/Luanneves1/assets/101072573/b9a2a653-18e5-489f-b57c-4b1f9744dcdb)](https://www.svgrepo.com/show/452088/php.svg>
-  <img align="center"  height="30" width="40" src=https://cdn.iconscout.com/icon/free/png-512/free-postgresql-9-1175120.png?f=webp&w=256>
+  <img align="center"  height="30" width="40" src=https://cdn.iconscout.com/icon/free/png-512/free-postgresql-11-1175122.png?f=webp&w=256>
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  

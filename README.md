@@ -8,7 +8,8 @@
 
 
 <br>
-## Skills
+
+##Skills
 <div style="display: inline_block"> 
   <img align="center"  height="40" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png">
   <img align="center"  height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

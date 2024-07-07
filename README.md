@@ -14,7 +14,7 @@
   <img align="center"  height="40" width="40" src="img/java.png">
   <img align="center"  height="40" width="40" src="img/css-3.png">
   <img align="center"  height="40" width="40" src="img/html-5.png">
-  <img align="center"  height="40" width="40" src="img/bootstrap.png">
+  <img align="center"  height="40" width="40" src="img/bootstrap1.png">
   <img align="center"  height="40" width="40" src="img/postgre.png">
 </div> <br>
 
